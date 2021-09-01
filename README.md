@@ -7,6 +7,9 @@ I am a FullStack Designer and Developer living in Dakar, Senegal.
 
 ![cover](https://github.com/Fallou-Mbengue/Fallou-Mbengue/blob/main/Skills.png)
 
+### 😉 Some Stats !📈
+
+
 <!--
 **Fallou-Mbengue/Fallou-Mbengue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
