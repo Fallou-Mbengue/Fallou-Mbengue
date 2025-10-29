@@ -3,16 +3,7 @@
 ### About Me 👋
 
 Above all, I am passionate about 🚀Technology💻, 🧪Science🔭.
-I am a FullStack Designer and Developer living in Dakar, Senegal.
-
-![cover](https://github.com/Fallou-Mbengue/Fallou-Mbengue/blob/main/Skills.png)
-
-### 😉 Some Stats !📈
-
-![cover](https://github.com/Fallou-Mbengue/Fallou-Mbengue/blob/main/profile.png)
-
-![cover](https://github.com/Fallou-Mbengue/Fallou-Mbengue/blob/main/stat-1.png)
-
+I am a FullStack Developper  and IA Product Manager living in Dakar, Senegal.
 
 <!--
 **Fallou-Mbengue/Fallou-Mbengue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
