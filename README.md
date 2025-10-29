@@ -1,5 +1,5 @@
 
-![cover](https://github.com/Fallou-Mbengue/Fallou-Mbengue/blob/main/Dev-folio.png)
+
 ### About Me 👋
 
 Above all, I am passionate about 🚀Technology💻, 🧪Science🔭.
